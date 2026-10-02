@@ -1,0 +1,6 @@
+{
+  "name": "يونج تيوب",
+  "description": "تطبيق آمن للأطفال لمشاهدة قنوات وفيديوهات مختارة وموثوقة بعناية بدون خوارزميات أو تشتيت مع رقابة أبوية ذكية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
